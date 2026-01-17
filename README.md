@@ -26,6 +26,7 @@ The workflow follows modern 2026 data integration standards:
 - **Visualization:** [Seaborn](https://seaborn.pydata.org) & [Matplotlib](https://matplotlib.org).
 
 ## Acquired/Developed Abilities
+- **SQL and JSON:** SQL query skills and JSON as a tool for data acquisition 
 - **Schema Management:** Handling data across different storage paradigms (Structured vs. Semi-structured).
 - **Statistical Rigor:** Moving from descriptive analytics to inferential testing to ensure results are not due to random chance.
 - **Product Management:** Identifying actionable "bugs" or "features" through quantitative evidence.
@@ -53,3 +54,4 @@ You can run the project files in two ways:
 If you want to contribute or have any questions, feel free to reach out:
 - [**GitHub:**](https://github.com/Lord-of-Souls)
 - [**Linkedin:**](www.linkedin.com/in/lucasfranciscon)
+
